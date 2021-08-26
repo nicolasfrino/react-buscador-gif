@@ -7,7 +7,7 @@ Conceptos utilizados: useState -
 useEffect -
 PropTypes -
 Operador Spread -
-Evento onChange -
+Eventos onChange/onSubmit -
 customHooks -
 invocacion de API -
 async/await - 
