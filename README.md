@@ -5,12 +5,12 @@ Usabilidad: En la barra de busqueda ingrese por ejemplo el valor Goku y se mostr
 
 Conceptos utilizados:
 
-useState
-useEffect
-PropTypes 
-Operador Spread
-Evento onChange
-customHooks
-invocacion de API
-async/await
+useState -
+useEffect -
+PropTypes -
+Operador Spread -
+Evento onChange -
+customHooks -
+invocacion de API -
+async/await - 
 Test con enzyme
